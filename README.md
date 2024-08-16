@@ -1,2 +1,43 @@
+## 📊 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaSolanki189&show_icons=true&theme=dark)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSolanki189&layout=compact&theme=dark&hide=jupyter%20notebook%hide=html&langs_count=8)](https://github.com/AdityaSolanki189/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSolanki189&show_icons=true&theme=dark" alt="Aditya's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSolanki189&layout=compact&theme=dark&hide=jupyter%20notebook,html&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSolanki189&theme=dark" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaSolanki189&theme=darkhub&no-frame=true&row=1&column=7" alt="trophy" />
+</div>
+
+### 👨‍💻 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSolanki189&theme=github-compact" alt="Contribution Graph" />
+</div>
+
+---
+
+<details>
+  <summary>📈 Detailed GitHub Stats</summary>
+  
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSolanki189&theme=github_dark" alt="GitHub Profile Summary" />
+  </div>
+  
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaSolanki189&theme=github_dark" alt="Top Languages by Repo" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaSolanki189&theme=github_dark" alt="Top Languages by Commit" />
+  </div>
+  
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaSolanki189&theme=github_dark" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaSolanki189&theme=github_dark" alt="Productive Time" />
+  </div>
+</details>
