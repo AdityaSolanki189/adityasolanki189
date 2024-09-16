@@ -12,29 +12,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AdityaSolanki189&theme=darkhub&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
-
-### 👨‍💻 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSolanki189&theme=github-compact" alt="Contribution Graph" />
-</div>
-
----
-
-<details>
-  <summary>📈 Detailed GitHub Stats</summary>
-  
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSolanki189&theme=github_dark" alt="GitHub Profile Summary" />
-  </div>
-  
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaSolanki189&theme=github_dark" alt="Top Languages by Repo" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaSolanki189&theme=github_dark" alt="Top Languages by Commit" />
-  </div>
-  
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaSolanki189&theme=github_dark" alt="Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaSolanki189&theme=github_dark" alt="Productive Time" />
-  </div>
-</details>
